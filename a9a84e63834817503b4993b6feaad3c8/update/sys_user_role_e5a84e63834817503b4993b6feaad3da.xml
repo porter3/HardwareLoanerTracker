@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <federated_id>15BXdtpiwW6wEikP2ugOkssJUBkWSPFO1H3i9p/DeZM=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_695201_hardwar_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 16:19:12</sys_created_on>
+        <sys_id>e5a84e63834817503b4993b6feaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_695201_hardwar_0.admin</sys_name>
+        <sys_package display_value="Hardware Loaner Tracker" source="x_695201_hardwar_0">a9a84e63834817503b4993b6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hardware Loaner Tracker">a9a84e63834817503b4993b6feaad3c8</sys_scope>
+        <sys_update_name>sys_user_role_e5a84e63834817503b4993b6feaad3da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 16:19:12</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <description/>
+        <id>x_695201_hardwar_0.GitHub</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub</name>
+        <parent/>
+        <retry_policy/>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 16:20:49</sys_created_on>
+        <sys_id>7df88aa3834817503b4993b6feaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_695201_hardwar_0.GitHub</sys_name>
+        <sys_package display_value="Hardware Loaner Tracker" source="x_695201_hardwar_0">a9a84e63834817503b4993b6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hardware Loaner Tracker">a9a84e63834817503b4993b6feaad3c8</sys_scope>
+        <sys_update_name>sys_alias_7df88aa3834817503b4993b6feaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 16:20:49</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_translated_text action="DELETE" query="documentkey=7df88aa3834817503b4993b6feaad357"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hardware Loaner Tracker">a9a84e63834817503b4993b6feaad3c8</application>
+        <file_path/>
+        <instance_id>3f566de11bb2b954699443f4bd4bcb65</instance_id>
+        <instance_name>dev227775</instance_name>
+        <name>sys_alias_7df88aa3834817503b4993b6feaad357</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><description/><id>x_695201_hardwar_0.GitHub</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>GitHub</name><parent/><retry_policy/><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-26 16:20:49</sys_created_on><sys_id>7df88aa3834817503b4993b6feaad357</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_695201_hardwar_0.GitHub</sys_name><sys_package display_value="Hardware Loaner Tracker" source="x_695201_hardwar_0">a9a84e63834817503b4993b6feaad3c8</sys_package><sys_policy/><sys_scope display_value="Hardware Loaner Tracker">a9a84e63834817503b4993b6feaad3c8</sys_scope><sys_update_name>sys_alias_7df88aa3834817503b4993b6feaad357</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-26 16:20:49</sys_updated_on><type>connection</type></sys_alias><sys_translated_text action="delete_multiple" query="documentkey=7df88aa3834817503b4993b6feaad357"/></record_update>]]></payload>
+        <payload_hash>-979060554</payload_hash>
+        <record_name>x_695201_hardwar_0.GitHub</record_name>
+        <reverted_from/>
+        <source>29a84e63834817503b4993b6feaad3d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 16:20:49</sys_created_on>
+        <sys_id>55098aa3834817503b4993b6feaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a17903b9ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 16:20:49</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>15098aa310481750333963ec0ee0fd31</update_guid>
+        <update_guid_history>15098aa310481750333963ec0ee0fd31:-979060554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 16:21:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>668d4f4a6f274f24ae8c4eeafa4ec161</sys_id>
+        <sys_metadata>7df88aa3834817503b4993b6feaad357</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_695201_hardwar_0.GitHub</sys_name>
+        <sys_package display_value="Hardware Loaner Tracker" source="x_695201_hardwar_0">a9a84e63834817503b4993b6feaad3c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hardware Loaner Tracker">a9a84e63834817503b4993b6feaad3c8</sys_scope>
+        <sys_scope_delete display_value="">83f2c9485d944ad88c693c7b3163e590</sys_scope_delete>
+        <sys_update_name>sys_alias_7df88aa3834817503b4993b6feaad357</sys_update_name>
+        <sys_update_version display_value="sys_alias_7df88aa3834817503b4993b6feaad357">55098aa3834817503b4993b6feaad332</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 16:21:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
